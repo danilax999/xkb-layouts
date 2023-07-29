@@ -12,5 +12,7 @@ xkb_symbols "ua" {
     key <AD12> { [ Cyrillic_hardsign, Cyrillic_HARDSIGN, Ukrainian_yi,              Ukrainian_YI              ] };
     key <AB07> { [ Cyrillic_softsign, Cyrillic_SOFTSIGN, Cyrillic_hardsign,         Cyrillic_HARDSIGN         ] };
 
+    key <AB10> { [ period, comma  ] };
+
     include "level3(ralt_switch)"
 };

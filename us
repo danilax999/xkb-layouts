@@ -1,6 +1,6 @@
 partial alphanumeric_keys
 xkb_symbols "de" {
-    name[Group1]= "English (US, DE)";
+    name[Group1]= "English(US, DE)";
 
     key <TLDE> { [ grave,        asciitilde,  dead_grave,           dead_asciitilde      ] };
     key <AE01> { [ 1,            exclam,      exclamdown,           onesuperior          ] };
